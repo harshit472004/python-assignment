@@ -1,0 +1,46 @@
+Skip to content
+
+Search or jump to...
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@abhay00singh 
+ESMayank
+/
+Python
+Public
+Fork your own copy of ESMayank/Python
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+BreadcrumbsPython
+/random
+Go to file
+t
+Latest commit
+ESMayank
+ESMayank
+Add files via upload
+13756d2
+ · 
+last week
+History
+File metadata and controls
+
+Code
+
+Blame
+5 lines (5 loc) · 50 Bytes
+a+b = 3
+a+a = 2
+a+b+c = 6
+a+b+c*4 = d
+print(d)
+Python/random at main · ESMayank/Python 

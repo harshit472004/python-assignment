@@ -1,0 +1,46 @@
+Skip to content
+
+Search or jump to...
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@abhay00singh 
+ESMayank
+/
+Python
+Public
+Fork your own copy of ESMayank/Python
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+BreadcrumbsPython
+/random.py
+Go to file
+t
+Latest commit
+ESMayank
+ESMayank
+Add files via upload
+13756d2
+ · 
+last week
+History
+File metadata and controls
+
+Code
+
+Blame
+5 lines (4 loc) · 66 Bytes
+import numpy as np
+li = [1,2]
+arr = np.array(li)
+print(arr)
+
+Python/random.py at main · ESMayank/Python 
